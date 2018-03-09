@@ -1,2 +1,10 @@
 # TestRepo
 This is an test/experimental repository
+
+## How to contribute
+- Fork this project
+  - If you don't...
+- Make your changes
+- Submit a pull request
+  - It's important to have a conversation ...
+  
